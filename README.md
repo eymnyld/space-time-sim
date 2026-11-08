@@ -3,7 +3,7 @@
 **Tarayıcıda çalışan, tek dosyalık (HTML + Canvas) genel ve özel görelilik simülasyonu.**
 Harici bağımlılık, derleme adımı veya sunucu yok — `index.html` dosyasını açman yeterli.
 
-[Canlı demo (GitHub Pages)](https://eymndev.github.io/space-time-sim/)
+[Canlı demo (GitHub Pages)](https://eymnyld.github.io/space-time-sim/)
 
 ---
 
